@@ -1,0 +1,17 @@
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ConsoleApi.exe
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ConsoleApi.deps.json
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ConsoleApi.runtimeconfig.json
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ConsoleApi.runtimeconfig.dev.json
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ConsoleApi.dll
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ref\ConsoleApi.dll
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\ConsoleApi.pdb
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.AssemblyInfoInputs.cache
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.AssemblyInfo.cs
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.csproj.CoreCompileInputs.cache
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.csproj.CopyComplete
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.dll
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ref\ConsoleApi.dll
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.pdb
+C:\Users\FÁBIOVIDRAGOANTUNES\source\repos\ConsoleApi\obj\Debug\net5.0\ConsoleApi.genruntimeconfig.cache
